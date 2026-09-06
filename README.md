@@ -1,4 +1,4 @@
 <picture>
-  <source srcset="./dvd-old.gif" />
-  <img src="./dvd-old.gif" alt="dvd bouncing" />
+  <source srcset="./dvd_bounce_v4.gif" />
+  <img src="./dvd_bounce_v4.gif" alt="dvd bouncing" />
 </picture>
